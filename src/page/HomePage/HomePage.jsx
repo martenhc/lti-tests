@@ -9,7 +9,7 @@ class HomePage extends React.Component {
     var params = {
         lti_message_type: 'basic-lti-launch-request',
         lti_version: 'LTI-1p0',
-        resource_link_id: 'catalog',
+        resource_link_id: 'RESOURCE_LINK_ID',
         
         oauth_consumer_key: 'CONSUMER_KEY',
         oauth_nonce: btoa(timestamp),
