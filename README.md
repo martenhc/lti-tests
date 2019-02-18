@@ -3,7 +3,7 @@
 1 - Clone repo  
 2 - Replace:  
     * `LTI_ENDPOINT` (l06)  
-    * `RESOURCE_LINK_ID` (l12)
+    * `RESOURCE_LINK_ID` (l12)  
     * `CONSUMER_KEY` (l14)  
     * `SECRET_KEY` (l20)  
 3 - Run "yarn" command  

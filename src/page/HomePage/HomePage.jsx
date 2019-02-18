@@ -41,7 +41,7 @@ class HomePage extends React.Component {
       <>
         <p id='code' />
         <br />
-        <form id="ltiForm" action="https://lti.tools/saltire/tp" method="POST">
+        <form id="ltiForm" method="POST">
           <input type='submit' />
         </form>
     </>
